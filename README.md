@@ -1,2 +1,2 @@
 # etl_mini_project
-Extract, Transform, and Load dirty data into a PostgreSQL database
+Extract / Transform dirty data. Load into PostgreSQL database.
