@@ -1,4 +1,4 @@
-<h1 align="left">ETL<br><i>Topic: Crowdfunding Campaigns</i> </h1> 
+<h1 align="left">Extract, Transform, Load<br><i>Topic: Crowdfunding Campaigns</i> </h1> 
 
 The purpose of this project is to build an ETL pipeline that extracts, transforms, and loads data related to crowdfunding campaigns into a structured format, enabling further analysis and insights. The pipeline generates organized information, which can be used in other applications such as predictive modeling, data visualization, or recommendations. By providing a comprehensive view of crowdfunding campaigns, this project can potentially facilitate better decision-making for stakeholders and help identify key trends or patterns.
 
